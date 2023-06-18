@@ -5,10 +5,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/adeiza-sulayman-096515256">
+  <a href="linkedin.com/adeiza-sulayman-096515256">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="Adeiza13105443">
+  <a href="twitter.com/Adeiza13105443">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
